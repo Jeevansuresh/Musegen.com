@@ -13,7 +13,7 @@ import librosa
 app = Flask(__name__)
 
 # Configure Gemini
-genai.configure(api_key="AIzaSyBPnhXENzwNskIEVXGjB4H9dC9uC87eo_w")
+genai.configure(api_key="")
 gemini_model = genai.GenerativeModel("gemini-1.5-flash")
 
 # Global variables for model loading
