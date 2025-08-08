@@ -125,6 +125,10 @@ Music Generation/
 │   └── index.html       # Main web interface
 └── venv39/              # Virtual environment (if using)
 ```
+<img width="1918" height="977" alt="image" src="https://github.com/user-attachments/assets/d522f577-0f21-4989-af5a-f2ae7816a276" />
+<img width="1918" height="981" alt="image" src="https://github.com/user-attachments/assets/5ab429f7-cece-45fe-906b-b330ff34a659" />
+<img width="1918" height="992" alt="image" src="https://github.com/user-attachments/assets/5d229f06-a728-4c81-a231-cbcb0a07f05a" />
+
 
 ## 💡 Tips for Better Results
 
