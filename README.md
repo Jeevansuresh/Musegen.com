@@ -328,16 +328,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ### 🆘 Getting Help
 - 📖 **Documentation**: [Full guide here](#-how-it-works)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/yourusername/musegen/discussions)
-- 🐛 **Issues**: [Report bugs](https://github.com/yourusername/musegen/issues)
-- 📧 **Email**: support@musegen.ai
 
-### 🌐 Connect With Us
-- 🐦 **Twitter**: [@MuseGenAI](https://twitter.com/MuseGenAI)
-- 💼 **LinkedIn**: [MuseGen](https://linkedin.com/company/musegen)
-- 📺 **YouTube**: [MuseGen Tutorials](https://youtube.com/@musegen)
-
----
 
 <div align="center">
 
