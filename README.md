@@ -90,9 +90,9 @@ python app.py
 
 | Description | Duration | Style | Listen |
 |-------------|----------|-------|--------|
-| "Epic orchestral battle music with thunderous drums" | 45s | Orchestral | 🎧 [Demo](link) |
-| "Chill lofi beats with piano and rain sounds" | 30s | Lo-Fi | 🎧 [Demo](link) |
-| "Upbeat jazz fusion with saxophone and electric guitar" | 60s | Jazz | 🎧 [Demo](link) |
+| "Epic orchestral battle music with thunderous drums" | 45s | Orchestral |
+| "Chill lofi beats with piano and rain sounds" | 30s | Lo-Fi |
+| "Upbeat jazz fusion with saxophone and electric guitar" | 60s | Jazz | 
 
 ### 🎨 Creative Prompts That Work
 
